@@ -1,6 +1,7 @@
 __author__ = 'tyler'
 
 print "This line will be printed."
+print "Then this guy..."
 
 x = 1
 if x == 1:
