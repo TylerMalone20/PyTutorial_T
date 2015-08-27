@@ -10,6 +10,7 @@ myobjectx = MyClass()
 
 print myobjectx.variable
 
+#yackity sax
 myobjecty = MyClass()
 
 myobjecty.variable = "yackity"
